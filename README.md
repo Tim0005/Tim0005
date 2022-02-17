@@ -1,11 +1,21 @@
-- 👋 Hi, I’m @Tim0005
-- 👀 I’m interested in Developing
-- 🌱 I’m currently learning JS & LUA
-- 📫 How to reach me Tim05#4277
+<h1 align="center">Hi 👋, I'm Tim</h1>
+<h3 align="center">A website developer & dicord developer</h3>
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:https://user-images.githubusercontent.com/88243931/154554551-34cf15b1-7fec-43e6-9b54-ddff2b278618.svg;base64,<BASE64_DATA>)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tim005&label=Profile%20views&color=0e75b6&style=flat" alt="tim005" /> </p>
 
-<!---
-Tim0005/Tim0005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on **FiveM Website**
+
+- 🌱 I’m currently learning **Discord.JS & CSS**
+
+- 👨‍💻 All of my projects are available at [Soon!](Soon!)
+
+- 📫 How to reach me **Tim05#4277**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tim005&show_icons=true&locale=en&layout=compact" alt="tim005" /></p>
