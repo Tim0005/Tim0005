@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JS & LUA
 - 📫 How to reach me Tim05#4277
 
-![](https://img.shields.io/badge/<Discord>-<Discord.JS>-informational?style=flat&logo=<discord>&logoColor=white&color=00e1ff)
+![](https://img.shields.io/badge/<Discord>-<Discord.JS>-informational?style=flat&logo=<discord>&logoColor=white&color=0095ff)
 
 <!---
 Tim0005/Tim0005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
